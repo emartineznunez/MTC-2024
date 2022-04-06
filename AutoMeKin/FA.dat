@@ -10,7 +10,6 @@ mult   1
 --Method--
 sampling    MD
 ntraj       10 
-barrierless yes
 
 --Screening--
 imagmin 200
