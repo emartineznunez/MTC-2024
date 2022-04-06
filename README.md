@@ -13,4 +13,4 @@ For AutoMeKin, both the **command line** and the **Web application** can be empl
 
 ## **Pilgrim**: https://github.com/daferro/Pilgrim
 
-For Pilgrim, we'll use the **command-line** scripts available at [CESGA](https://github.com/emartineznunez/MTC/raw/main/Access%20to%20the%20Galician%20Supercomputer%20Center.pdf) 
+For Pilgrim, we'll use the **command-line** scripts available at [CESGA](https://github.com/emartineznunez/MTC/raw/main/CESGA/Access%20to%20the%20Galician%20Supercomputer%20Center.pdf) 
