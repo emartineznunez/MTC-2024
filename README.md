@@ -3,7 +3,7 @@ Material for the Master on Theoretical and Computational Chemistry
 
 The material includes simple examples for the following computer programs: 
 
-AutoMeKin: https://rxnkin.usc.es/index.php/AutoMeKin
+**AutoMeKin**: https://rxnkin.usc.es/index.php/AutoMeKin
 
 For AutoMeKin, both the **command line** and the **Web application** can be employed:
 
@@ -11,4 +11,4 @@ For AutoMeKin, both the **command line** and the **Web application** can be empl
 
 2. To acces the **Web application** just follow this link: https://rxnkin.usc.es/amk/
 
-Pilgrim: https://github.com/daferro/Pilgrim
+**Pilgrim**: https://github.com/daferro/Pilgrim
