@@ -9,6 +9,6 @@ For AutoMeKin, both the **command line** and the **Web application** can be empl
 
 **Command line tools** are installed in [CESGA](https://www.cesga.es/). Please read these [instructions](https://github.com/emartineznunez/MTC/raw/main/Access%20to%20the%20Galician%20Supercomputer%20Center.pdf) 
 
-To acces the Web application just follow this link: https://rxnkin.usc.es/amk/
+To acces the **Web application** just follow this link: https://rxnkin.usc.es/amk/
 
 Pilgrim: https://github.com/daferro/Pilgrim
