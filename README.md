@@ -12,3 +12,5 @@ For AutoMeKin, both the **command line** and the **Web application** can be empl
 2. To acces the **Web application** just follow this link: https://rxnkin.usc.es/amk/
 
 ## **Pilgrim**: https://github.com/daferro/Pilgrim
+
+For Pilgrim, only **command line** tools are available.
