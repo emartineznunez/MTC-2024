@@ -1,4 +1,4 @@
-# Course on Dynamics of Chemical Reactions
+# School on Kinetics and Dynamics of Chemical Reactions
 Material for the Master on Theoretical and Computational Chemistry
 
 The material includes simple examples for the following computer programs: 
