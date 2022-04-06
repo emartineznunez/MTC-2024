@@ -1,4 +1,4 @@
-# Master_Teorica_Comput
+# Course on Dynamics of Chemical Reactions
 Material for the Master on Theoretical and Computational Chemistry
 
 The material includes simple examples for the following computer programs: 
