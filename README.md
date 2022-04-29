@@ -9,7 +9,7 @@ For AutoMeKin, both the **command line** and the **Web application** can be empl
 
 1. **Command-line** scripts are installed in [CESGA](https://www.cesga.es/). Please read these [instructions](https://github.com/emartineznunez/MTC/raw/main/CESGA/Access_CESGA_instructions.pdf) 
 
-2. To acces the **Web application** just follow this link: https://rxnkin.usc.es/amk/
+2. To acces the **Web application** just follow this link: https://rxnkin.usc.es/amk/ and then click on **Tutorial**
 
 ## **Pilgrim**: https://github.com/daferro/Pilgrim
 
