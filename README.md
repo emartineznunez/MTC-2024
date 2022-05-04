@@ -1,6 +1,8 @@
 # School on Kinetics and Dynamics of Chemical Reactions
 Material for the Master on Theoretical and Computational Chemistry
 
+Clone the repository as: git clone https://github.com/emartineznunez/MTC.git
+
 The material includes simple examples for the following computer programs: 
 
 ## **AutoMeKin**: https://rxnkin.usc.es/index.php/AutoMeKin
