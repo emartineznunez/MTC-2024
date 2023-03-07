@@ -1,4 +1,4 @@
-# School on Kinetics and Dynamics of Chemical Reactions
+# Dynamics of Chemical Reactions
 Material for the Master on Theoretical and Computational Chemistry
 
 Clone the repository as: git clone https://github.com/emartineznunez/MTC.git
