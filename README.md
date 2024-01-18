@@ -12,7 +12,7 @@ Hosting node: CECAM-ES<br>
 
 ## Schedule for Automated methods in Reaction Dynamics and Kinetics
 
-<span style="color:blue">some *blue* text</span>
+<span style="color:red">some *blue* text</span>
 
 | |Monday   |Tuesday   |
 |---|---|---|
