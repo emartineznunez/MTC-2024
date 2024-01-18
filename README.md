@@ -3,6 +3,10 @@ March 18, 2024 - March 22, 2024<br>
 Location: CECAM-ES<br>
 Hosting node: CECAM-ES<br>
 
+# Organisers
+* Pablo Gamallo (Universitat de Barcelona & Institut de Química Teòrica i Computacional)
+* Emilio Martinez-Nunez (University of Santiago de Compostela)
+* Hector Prats (University College London)
 
 Material for the Master on Theoretical and Computational Chemistry
 
