@@ -12,7 +12,7 @@ Hosting node: CECAM-ES<br>
 ## Schedule 
 
 
-<center>
+
 
 | |Monday 18   |Tuesday 19   |
 |:---:|:---:|:---:|
@@ -22,7 +22,7 @@ Hosting node: CECAM-ES<br>
 |**13:30-15:30**   |_Lunch_   |_Lunch_   |
 |**15:00-17:00**   | **Theo-1**  |   |
 |**17:30-19:30**   | **Lab-1**  |   |
-</center>
+
 
 ## Syllabus
 
