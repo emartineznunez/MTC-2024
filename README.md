@@ -17,7 +17,7 @@ Hosting node: CECAM-ES<br>
 
 | |Monday   |Tuesday   |
 |---|---|---|
-|9:00-11:00   | | Theo-2   |
+|**9:00-11:00**   | | Theo-2   |
 |11:00-11:30   |  Break |Break   |
 |11:30-13:30   |   | Lab-2  |
 |13:30-15:30   |Lunch   |Lunch   |
