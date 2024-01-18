@@ -15,7 +15,7 @@ Hosting node: CECAM-ES<br>
 
 <center>
 
-| |Monday   |Tuesday   |
+| |Monday 18   |Tuesday 19   |
 |:---:|:---:|:---:|
 |**9:00-11:00**   | | **Theo-2**   |
 |**11:00-11:30**   |  _Break_ |_Break_   |
