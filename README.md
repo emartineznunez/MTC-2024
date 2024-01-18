@@ -1,4 +1,10 @@
 # School on Kinetics and Dynamics of Chemical Reactions
+March 18, 2024 - March 22, 2024
+Registration deadline: March 4, 2024
+Location: CECAM-ES
+Hosting node: CECAM-ES
+
+
 Material for the Master on Theoretical and Computational Chemistry
 
 Clone the repository as: git clone https://github.com/emartineznunez/MTC.git
