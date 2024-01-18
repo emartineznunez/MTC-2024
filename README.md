@@ -16,7 +16,9 @@ Hosting node: CECAM-ES<br>
 |---|---|---|
 |9:00-11:00   |   |   |
 |11:00-11:30   |   |   |
-|11:30-13:30   |   |   |
+|13:30-15:30   |Lunch   |Lunch   |
+|15:00-17:00   |   |   |
+|17:30-19:30   |   |   |
 
 
 Material for the Master on Theoretical and Computational Chemistry
