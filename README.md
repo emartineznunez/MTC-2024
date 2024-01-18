@@ -5,7 +5,7 @@ Hosting node: CECAM-ES<br>
 
 ## Organisers
 * Pablo Gamallo (Universitat de Barcelona & Institut de Química Teòrica i Computacional)
-* Emilio Martinez-Nunez (University of Santiago de Compostela)
+* Emilio Martinez-Nunez (Universidade de Santiago de Compostela)
 * Hector Prats (University College London)
 
 ![d3cp02379f-f2](https://github.com/emartineznunez/MTC-2024/assets/50674314/df15da09-b195-4e97-b962-b7cad2147ae7)
