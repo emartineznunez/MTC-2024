@@ -14,12 +14,12 @@ Hosting node: CECAM-ES<br>
 
 | |Monday   |Tuesday   |
 |---|---|---|
-|9:00-11:00   |   |   |
+|9:00-11:00   | | Theo-2   |
 |11:00-11:30   |  Break |Break   |
-|11:30-13:30   |   |   |
+|11:30-13:30   |   | Lab-2  |
 |13:30-15:30   |Lunch   |Lunch   |
-|15:00-17:00   |   |   |
-|17:30-19:30   |   |   |
+|15:00-17:00   | Theo-1  |   |
+|17:30-19:30   | Lab-1  |   |
 
 
 Material for the Master on Theoretical and Computational Chemistry
