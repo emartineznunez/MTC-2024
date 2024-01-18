@@ -11,22 +11,8 @@ Hosting node: CECAM-ES<br>
 ![d3cp02379f-f2](https://github.com/emartineznunez/MTC-2024/assets/50674314/df15da09-b195-4e97-b962-b7cad2147ae7)
 
 ## Schedule for Automated methods in Reaction Dynamics and Kinetics
-<style>
-    .heatMap {
-        width: 70%;
-        text-align: center;
-    }
-    .heatMap th {
-        background: grey;
-        word-wrap: break-word;
-        text-align: center;
-    }
-    .heatMap tr:nth-child(1) { background: red; }
-    .heatMap tr:nth-child(2) { background: orange; }
-    .heatMap tr:nth-child(3) { background: green; }
-</style>
 
-<div class="heatMap">
+
 | |Monday   |Tuesday   |
 |---|---|---|
 |9:00-11:00   | | Theo-2   |
@@ -35,7 +21,6 @@ Hosting node: CECAM-ES<br>
 |13:30-15:30   |Lunch   |Lunch   |
 |15:00-17:00   | Theo-1  |   |
 |17:30-19:30   | Lab-1  |   |
-</div>
 
 Material for the Master on Theoretical and Computational Chemistry
 
