@@ -13,7 +13,7 @@ Hosting node: CECAM-ES<br>
 ## Schedule for Automated methods in Reaction Dynamics and Kinetics
 
 
-
+<center>
 
 | |Monday   |Tuesday   |
 |---|---|---|
@@ -23,7 +23,7 @@ Hosting node: CECAM-ES<br>
 |13:30-15:30   |Lunch   |Lunch   |
 |15:00-17:00   | Theo-1  |   |
 |17:30-19:30   | Lab-1  |   |
-
+</center>
 Material for the Master on Theoretical and Computational Chemistry
 
 Clone the repository as: git clone https://github.com/emartineznunez/MTC.git
