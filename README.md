@@ -1,7 +1,6 @@
 # School on Kinetics and Dynamics of Chemical Reactions
-March 18, 2024 - March 22, 2024<br>
-Location: CECAM-ES<br>
-Hosting node: CECAM-ES<br>
+**March 18, 2024 - March 22, 2024**<br>
+
 
 ## Automated methods in Reaction Dynamics and Kinetics
 **Instructor:** _Emilio Martinez-Nunez (Universidade de Santiago de Compostela)_
