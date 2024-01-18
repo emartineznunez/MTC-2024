@@ -27,8 +27,8 @@
 
 
 * **Automated methods for exploring PESs**<br>
-  * **Theo-1**: [Slides](https://github.com/emartineznunez/MTC-2024/raw/main/Session1/Automated_methods.pptx)
-  * **Lab -1**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/MTC-2024/blob/main/Session1/AutoMeKin.ipynb)<br>
+  * **Theo-1**:  [Slides](https://github.com/emartineznunez/MTC-2024/raw/main/Session1/Automated_methods.pptx)
+  * **Lab-1**:   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/MTC-2024/blob/main/Session1/AutoMeKin.ipynb)<br>
 * **Computational methods for Kinetics (Theo-2 & Lab-2)**<br>
   * **Theo-2**: [Slides](https://github.com/emartineznunez/MTC-2024/raw/main/Session2/Computational_Kinetics.pptx)
 
