@@ -28,10 +28,12 @@ Hosting node: CECAM-ES<br>
 ## Syllabus
 
 
-* Automated methods for exploring PESs
+* **Automated methods for exploring PESs**<br
   Slides in Session 1 folder<br>
   Google Colab:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/MTC-2024/blob/main/Session1/AutoMeKin.ipynb)<br>
-* Computational methods for Kinetics
+* **Computational methods for Kinetics**<br>
+  Slides in Session 2 folder<br>
+
 
 
