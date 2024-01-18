@@ -28,8 +28,7 @@ Hosting node: CECAM-ES<br>
 
 
 * **Automated methods for exploring PESs**<br>
-  [Slides] (/Session1/Automated_methods.pptx)
-  [Slides] (https://github.com/emartineznunez/MTC-2024/raw/main/Session1/Automated_methods.pptx)<br>
+  [Slides](https://github.com/emartineznunez/MTC-2024/raw/main/Session1/Automated_methods.pptx)<br>
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/MTC-2024/blob/main/Session1/AutoMeKin.ipynb)<br>
 * **Computational methods for Kinetics**<br>
   Slides in Session 2 folder<br>
