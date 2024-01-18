@@ -3,10 +3,9 @@ March 18, 2024 - March 22, 2024<br>
 Location: CECAM-ES<br>
 Hosting node: CECAM-ES<br>
 
-## Organisers
-* Pablo Gamallo (Universitat de Barcelona & Institut de Química Teòrica i Computacional)
-* _Emilio Martinez-Nunez (Universidade de Santiago de Compostela)_
-* Hector Prats (University College London)
+## Automated methods in Reaction Dynamics and Kinetics
+**Instructor:** _Emilio Martinez-Nunez (Universidade de Santiago de Compostela)_
+
 
 ![d3cp02379f-f2](https://github.com/emartineznunez/MTC-2024/assets/50674314/df15da09-b195-4e97-b962-b7cad2147ae7)
 
