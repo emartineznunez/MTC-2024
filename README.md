@@ -10,13 +10,13 @@ Hosting node: CECAM-ES<br>
 
 ![d3cp02379f-f2](https://github.com/emartineznunez/MTC-2024/assets/50674314/df15da09-b195-4e97-b962-b7cad2147ae7)
 
-Schedule
+## Schedule
 
-|Monday |Tuesday   |Wednesday   |Thursday   |Friday   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| |Monday   |Tuesday   |
+|---|---|---|
+|9:00-11:00   |   |   |
+|11:00-11:30   |   |   |
+|11:30-13:30   |   |   |
 
 
 Material for the Master on Theoretical and Computational Chemistry
