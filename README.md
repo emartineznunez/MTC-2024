@@ -27,6 +27,6 @@
   * **Lab-1**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/MTC-2024/blob/main/Session1/AutoMeKin1.ipynb)<br>
 * **Computational methods for Kinetics**<br>
   * **Theo-2**:&nbsp;&nbsp;&nbsp;[Slides](https://github.com/emartineznunez/MTC-2024/raw/main/Session2/Computational_Kinetics.pdf)
-
+  * **Lab-2**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartineznunez/MTC-2024/blob/main/Session2/AutoMeKin2.ipynb)<br>
 
 
