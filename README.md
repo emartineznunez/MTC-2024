@@ -1,5 +1,7 @@
 # School on Kinetics and Dynamics of Chemical Reactions
 **March 18-March 22, 2024**<br>
+
+Most of the material of this course is based on the following software:
 [![GitHub - AutoMeKin](https://img.shields.io/badge/GitHub-AutoMeKin-blue?logo=github)](https://github.com/emartineznunez/AutoMeKin/)
 
 ## Automated methods in Reaction Dynamics and Kinetics
