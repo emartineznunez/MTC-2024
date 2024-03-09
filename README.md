@@ -1,6 +1,6 @@
 # School on Kinetics and Dynamics of Chemical Reactions
 **March 18-March 22, 2024**<br>
-
+[![GitHub - AutoMeKin](https://img.shields.io/badge/GitHub-AutoMeKin-blue?logo=github)](https://github.com/emartineznunez/AutoMeKin/)
 
 ## Automated methods in Reaction Dynamics and Kinetics
 **Instructor:** _Emilio Martinez-Nunez (Universidade de Santiago de Compostela)_
