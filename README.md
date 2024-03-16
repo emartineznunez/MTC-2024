@@ -17,7 +17,7 @@ Most of the material of this course is based on the following software:
 
 | | **9:00-11:00**  |**11:30-13:30**   |**13:30-15:00**   |**15:00-17:00**   |**17:30-19:30**   |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|**Monday 18**   |  |_Lunch_|**Theo-1**  |**Lab-1**  |
+|**Monday 18**   | |  |_Lunch_|**Theo-1**  |**Lab-1**  |
 |**Tuesday 19**  | **Theo-2** | **Lab-2** | _Lunch_|||
 
 
